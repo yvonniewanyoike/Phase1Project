@@ -10,5 +10,11 @@ Our organization is entering the aviation sector with no prior operational histo
 1. To develop a list of aircraft makes, models and categories categorized by their safety performance.
 2. To identify the aircrafts that demonstrate the highest-operational resilience-those that remain safe even in challenging environments or critical flight phases.
 
+## Data Understanding and Analysis
+The data used in this project is a csv file named `Aviation_Data`from the National Transportation Safety Board (NTSB) that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+
+It contains 31 columns and 90348 rows before data cleaning and analysis.
+
+
 
 
