@@ -38,7 +38,7 @@ I was able to clean the data set by checking for missing values and duplicate va
 https://public.tableau.com/authoring/AircraftRiskAnalysis_17663056857540/EngineTypeNo_ofEnginesvsSurvivalRate/Aircraft%20Risk%20Analysis#1
 to find the attached visualizations.
 
-##Conclusion
+## Conclusion
 This analysis identifies the safest aircraft for our fleet, providing the Head of Aviation with a low-risk strategy for market entry. The data confirms that aviation safety has improved significantly over the decades due to technological advancements. Specifically, the shift towards multi-engine designs provide a vital safety net during engine failures. Additionally, the high performance and reliability of turbofans and turbojets make them the optimal choice for a safety-first fleet. However, operational safety is heavily dependent on rigorous pre-flight safety checks and the decision-making skills of experienced pilots both of which ensure the safety and success of every flight.
 
 ## Recommendations
